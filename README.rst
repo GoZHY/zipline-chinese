@@ -93,4 +93,10 @@ zganghanhan@foxmail.com
 欢迎有兴趣的朋友伙伴加入我们的开源讨论群：
 
 
+python环境安装
+=======
+https://blog.csdn.net/taiyangdao/article/details/70141830
+pycharm注册码:
+http://idea.lanyus.com/
+
 QQ群：556125593
